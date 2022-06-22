@@ -1,7 +1,5 @@
 ### 💬 
 ![images](https://user-images.githubusercontent.com/99426280/175132471-3f046d34-0e8d-440d-9495-63913d9f47ba.jpg)
-![waneella-pixel-art](https://user-images.githubusercontent.com/99426280/173876065-8f6ad6da-feee-44c3-8bb3-374dcbb0d68f.gif)
-
 <!--
 **marcela27/marcela27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
