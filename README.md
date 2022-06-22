@@ -1,5 +1,6 @@
 ### 💬 
-![images](https://user-images.githubusercontent.com/99426280/175132471-3f046d34-0e8d-440d-9495-63913d9f47ba.jpg)
+![FluidSnappyFox-size_restricted](https://user-images.githubusercontent.com/99426280/175133220-27144367-2dde-44d7-a35b-570e635c9a98.gif)
+
 <!--
 **marcela27/marcela27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
