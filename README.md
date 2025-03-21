@@ -1,5 +1,5 @@
 ### 💬 Projetos feitos em aula ETEC/FATEC
-![FluidSnappyFox-size_restricted](https://user-images.githubusercontent.com/99426280/175133220-27144367-2dde-44d7-a35b-570e635c9a98.gif)
+
 
 <!--
 **marcela27/marcela27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
